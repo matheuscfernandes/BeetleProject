@@ -4,4 +4,4 @@
 
 In this repository we will keep the files for the reseach conducted for understanding the strucutral coloring of Beetles. More information to be added to the README soon. 
 
-### Please find the Abaqus input file manual under construction here: [https://www.dropbox.com/s/dg3whpba50fcrfm/document.pdf?dl=0]
+### Please find the Abaqus input file manual here: [http://mcfernandes.com/abaqusinputfile]
